@@ -1,0 +1,256 @@
+What is the size of an int in Java?,16 bits,8 bits,32 bits,64 bits,3
+Which of these is not a primitive data type in Java?,int,float,boolean,String,4
+Which keyword is used to define a subclass in Java?,class,extends,implements,super,2
+What is the default value of a boolean variable in Java?,true,false,0,null,2
+Which method is called first in a Java program?,main(),start(),run(),init(),1
+What does JVM stand for?,Java Virtual Machine,Java Visual Machine,Java Verified Machine,Java Virtual Method,1
+Which operator is used to compare two values in Java?,==,=,!=,===,1
+What is the result of 10 % 3 in Java?,1,3,0,10,1
+Which of the following is used to handle exceptions in Java?,catch,try,throw,catch and try,4
+Which keyword is used to prevent inheritance in Java?,final,private,static,const,1
+What is the size of a char in Java?,8 bits,16 bits,32 bits,64 bits,2
+Which package contains the `ArrayList` class?,java.util,java.lang,java.io,java.sql,1
+Which keyword is used to create an instance of a class in Java?,class,new,instance,create,2
+Which method is used to find the length of a string in Java?,size(),getSize(),length(),getLength(),3
+Which keyword is used to define a constant in Java?,final,const,static,var,1
+Which method is used to terminate a thread in Java?,stop(),terminate(),exit(),kill(),1
+What does the `this` keyword refer to in Java?,The current object,The parent class,The main method,The super class,1
+What is the access modifier for methods and variables that are accessible only within the same class?,public,private,protected,default,2
+Which keyword is used to import a package in Java?,import,package,include,define,1
+Which of these is a marker interface in Java?,Cloneable,Serializable,Comparable,RandomAccess,1
+Which collection class allows you to grow or shrink its size and provides indexed access to its elements?,ArrayList,LinkedList,HashSet,TreeSet,1
+Which of these classes is synchronized in Java?,Vector,ArrayList,HashMap,HashSet,1
+Which method in the `Thread` class is used to pause a thread?,sleep(),wait(),pause(),stop(),1
+What is the default value of an object reference variable in Java?,null,0,"",undefined,1
+Which exception is thrown when a division by zero occurs in Java?,ArithmeticException,IOException,NullPointerException,ArrayIndexOutOfBoundsException,1
+Which loop is guaranteed to execute at least once in Java?,for loop,while loop,do-while loop,nested loop,3
+Which class in Java can be used to generate random numbers?,Math,Random,System,Number,2
+Which of the following is not a valid access modifier in Java?,public,protected,default,friendly,4
+Which keyword is used to inherit a class in Java?,extends,implements,instanceof,super,1
+Which keyword is used to check if an object is an instance of a class?,instance,instanceof,typeOf,isType,2
+What will be the output of the expression `5 + 2 * 3` in Java?,11,21,15,8,1
+Which of the following is used to stop a thread in Java?,stop(),terminate(),interrupt(),kill(),3
+Which of the following is the base class for all exceptions in Java?,Exception,Error,Throwable,RuntimeException,3
+Which of the following is not a feature of Java?,Platform Independent,Object-Oriented,Pointer-based,Multi-threaded,3
+Which operator is used to concatenate two strings in Java?,+,&,*,++,1
+What is the default value of an int variable in Java?,null,0,1,-1,2
+Which of the following is a wrapper class in Java?,int,Integer,boolean,float,2
+Which of the following is used to compare two strings in Java?,compare(),compareTo(),equals(),==,3
+What is the range of byte data type in Java?,0 to 256,-128 to 127,-256 to 255,0 to 128,2
+Which class cannot be subclassed in Java?,abstract class,final class,public class,private class,2
+Which of the following is not a reserved keyword in Java?,native,transient,super,null,4
+Which statement is used to exit a loop in Java?,return,break,exit,continue,2
+Which of the following is used to create a new object in Java?,allocate(),new(),create(),construct(),2
+Which class provides methods for reading from a file in Java?,FileInputStream,BufferedReader,FileReader,Scanner,2
+What does `static` mean in Java?,Method belongs to the class,Method can be inherited,Method is synchronized,Method cannot be overridden,1
+Which of the following is not a Java feature?,Dynamic,Architecture Neutral,Use of Pointers,Multithreaded,3
+Which keyword is used to call a constructor of the parent class?,parent,this,super,constructor,3
+What is the parent class of all classes in Java?,Object,Class,Main,Parent,1
+What is the output of `System.out.println(10/0);` in Java?,0,Infinity,10,ArithmeticException,4
+Which interface does java.util.HashMap implement?,Map,Set,List,Queue,1
+What is the default load factor for HashMap in Java?,0.5,0.75,1.0,0.25,2
+What is the default initial capacity of an ArrayList?,5,10,16,20,2
+Which method is used to make a thread wait for another thread to finish?,join(),wait(),sleep(),notify(),1
+Which keyword is used to create a synchronized block of code?,synchronized,lock,sync,atomic,1
+Which class is used to perform input and output operations on bytes?,FileInputStream,FileReader,BufferedReader,Scanner,1
+Which design pattern is used in Java's `Iterator` interface?,Singleton,Factory,Iterator,Observer,3
+What is the time complexity of inserting an element in a HashMap on average?,O(1),O(n),O(log n),O(n^2),1
+Which of these is a thread-safe collection in Java?,ArrayList,HashSet,HashMap,ConcurrentHashMap,4
+What does the `volatile` keyword ensure?,Atomicity,Visibility,Synchronization,Immutability,2
+What is the maximum priority of a thread in Java?,5,10,15,20,2
+Which class in Java is immutable?,String,StringBuilder,ArrayList,HashSet,1
+What does the `transient` keyword mean in Java?,The variable cannot be serialized,The variable is static,The variable is volatile,The variable is final,1
+What is the purpose of the `finally` block in a try-catch statement?,Execute code before the exception,Handle exceptions,Ensure the execution of code regardless of exceptions,Terminate the program,3
+Which of the following is used to serialize an object in Java?,Serializable,Comparable,Cloneable,Runnable,1
+Which class is used to create sockets in Java?,Socket,ServerSocket,ClientSocket,DatagramSocket,1
+Which method in Java is used to compare two objects?,equals(),==,compare(),compareTo(),1
+What does the term 'JIT' stand for in Java?,Just-In-Time,Java Intermediate Translator,Java In-Time Compiler,Java Internal Translator,1
+What does the `wait()` method do in Java?,Pauses a thread until another thread invokes notify(),Stops the thread permanently,Suspends a thread indefinitely,Kills a thread,1
+Which exception is thrown when an array is accessed out of bounds?,ArrayIndexOutOfBoundsException,NullPointerException,ArithmeticException,ClassCastException,1
+Which class allows multiple threads to communicate with each other in Java?,Object,Thread,Synchronizer,ExecutorService,1
+What is the difference between `notify()` and `notifyAll()` in Java?,`notify()` wakes up all threads,`notify()` wakes up one thread,`notify()` pauses all threads,No difference,2
+What is the purpose of the `Callable` interface in Java?,Create a thread,Execute a task with a return value,Terminate a thread,Handle exceptions in threads,2
+Which class is used to create a thread pool in Java?,Thread,ThreadPool,ExecutorService,ThreadManager,3
+Which method is used to set the priority of a thread in Java?,setPriority(),setThreadPriority(),priority(),setOrder(),1
+What is the result of invoking `map.get(null)` on a HashMap if null is a valid key?,NullPointerException,null,IllegalStateException,0,2
+Which method in the `Object` class is used to get a shallow copy of an object?,clone(),copy(),duplicate(),replicate(),1
+What does the `yield()` method do in Java?,Pauses the thread temporarily,Gives the processor to another thread,Stops the thread permanently,Kills the thread,2
+Which interface is implemented by a class to make it comparable?,Comparable,Comparator,Iterable,Cloneable,1
+Which method is used to create a deep copy of an object?,deepClone(),clone(),copy(),replicate(),2
+Which method is used to execute a Runnable object in a new thread?,start(),run(),execute(),begin(),1
+What does the `finalize()` method do in Java?,Called when an object is about to be garbage collected,Stops a thread,Synchronizes two threads,Resets an object,1
+Which of these is a functional interface in Java?,Runnable,Comparator,Callable,All of the above,4
+Which method is used to notify waiting threads in Java?,notify(),notifyAll(),wait(),sleep(),1
+What is the maximum number of dimensions an array can have in Java?,1,2,255,Infinite,3
+Which of these is not a type of stream in Java?,Byte stream,Character stream,Data stream,Input-output stream,4
+What is the purpose of the `ThreadLocal` class in Java?,Create a new thread,Store thread-specific data,Terminate a thread,Pause a thread,2
+Which of these is a marker interface in Java?,Serializable,Comparable,Cloneable,Runnable,1
+What does the `assert` keyword do in Java?,Check conditions in debugging,Test the program,Set conditions in production code,Log errors,1
+Which method is used to shut down an ExecutorService?,shutdown(),terminate(),exit(),kill(),1
+Which of the following is not a valid method in the `Thread` class?,sleep(),yield(),stop(),runThread(),4
+What does the `ExecutorService` interface do in Java?,Manages a pool of threads,Creates a new thread,Synchronizes threads,Pauses threads,1
+Which method is used to start a thread in Java?,start(),run(),begin(),execute(),1
+Which interface is used to handle events in Java Swing?,ActionListener,EventListener,MouseEvent,ActionEvent,1
+What is the purpose of the `ForkJoinPool` class in Java?,Handle large tasks in parallel,Create threads,Manage I/O operations,Monitor thread states,1
+What does the `AtomicInteger` class provide in Java?,Lock-free thread-safe operations on integers,Synchronized integer operations,A class for mathematical functions,A primitive integer class,1
+Which annotation is used to suppress warnings in Java?,@Override,@SuppressWarnings,@Deprecated,@Functional,2
+Which of the following is not a pillar of OOP?,Encapsulation,Polymorphism,Abstraction,Inheritance,1
+What is the process of hiding the implementation details and showing only the functionality?,Encapsulation,Abstraction,Inheritance,Polymorphism,2
+Which OOP concept refers to the ability to take many forms?,Inheritance,Encapsulation,Polymorphism,Abstraction,3
+Which class is used to create a client socket in Java?,Socket,ServerSocket,ClientSocket,DatagramSocket,1
+Which class is used to create a server socket in Java?,ServerSocket,Socket,DatagramSocket,ClientSocket,1
+What method is used to accept an incoming connection on a server socket?,accept(),connect(),bind(),listen(),1
+Which method is used to connect to a server socket?,connect(),accept(),bind(),listen(),1
+Which port number is reserved for HTTP communication?,21,80,443,8080,2
+Which of the following is a characteristic of a TCP connection?,Connection-oriented,Connectionless,Broadcast,Multicast,1
+Which of the following is used for connectionless communication?,UDP,TCP,HTTP,FTP,1
+Which method is used to close a socket?,close(),shutdown(),terminate(),exit(),1
+What is the maximum number of bits in an IP address (IPv4)?,32,64,128,16,1
+Which method is used to send data through a socket?,write(),send(),getOutputStream(),getInputStream(),3
+How can you check if a socket is connected?,socket.isConnected(),socket.check(),socket.connectStatus(),socket.state(),1
+What method in `ServerSocket` allows it to bind to a specific port?,bind(),listen(),open(),connect(),1
+What exception is thrown when a socket times out?,SocketTimeoutException,IOException,TimeoutException,SocketException,1
+What is the default timeout value for a socket connection in Java?,0 (no timeout),1000 ms,5000 ms,30000 ms,1
+What method is used to read data from a socket?,getInputStream(),read(),getData(),receive(),1
+Which protocol is used by DatagramSocket?,TCP,UDP,HTTP,FTP,2
+How do you bind a socket to a specific IP address and port?,new ServerSocket(port, backlog, InetAddress),new Socket(),bind(address, port),connect(address, port),1
+Which of the following creates a socket on the client side?,Socket socket = new Socket("localhost", 8080);,ServerSocket socket = new ServerSocket(8080);,Socket socket = connect("localhost", 8080);,DatagramSocket socket = new DatagramSocket(8080);,1
+Which method is used to receive data in a DatagramSocket?,receive(),read(),getData(),listen(),1
+What does `InetAddress.getLocalHost()` return?,The IP address of the local machine,The IP address of the server,The hostname of the server,The port number of the machine,1
+Which protocol provides reliable data transfer between a client and server?,TCP,UDP,ICMP,ARP,1
+Which method is used to set a timeout for a socket connection?,setSoTimeout(),setTimeout(),setLimit(),setWaitTime(),1
+Which method in `DatagramPacket` is used to get the data received?,getData(),getPacket(),receiveData(),fetchData(),1
+What is the difference between `Socket` and `ServerSocket`?,Socket is for the client, ServerSocket is for the server,Socket is for server, ServerSocket is for client,Socket uses UDP, ServerSocket uses TCP,Socket is connectionless, ServerSocket is connection-oriented,1
+Which of the following is true about socket programming?,It allows communication between two machines over a network,It is used for file handling,It is used for GUI development,It is a protocol,1
+How do you set the buffer size for receiving data in a DatagramSocket?,setReceiveBufferSize(),setBufferSize(),setReceiveSize(),setDataSize(),1
+What does the `getPort()` method in a `Socket` object return?,The port number of the remote socket,The local port number,The protocol used,The buffer size,1
+Which method is used to send a `DatagramPacket` in a `DatagramSocket`?,send(),write(),sendPacket(),transmit(),1
+What does the `close()` method do for a socket?,Closes the socket,Terminates the connection,Resets the socket,Flushes the socket,1
+What is the primary difference between TCP and UDP in Java?,TCP is connection-oriented, UDP is connectionless,TCP is faster, UDP is slower,TCP supports multicast, UDP does not,TCP is used for streaming video, UDP is not,1
+Which class is used to read from a file in Java?,FileReader,FileInputStream,BufferedReader,FileOutputStream,1
+What is the primary purpose of `FileWriter` class?,To write to a file,To read from a file,To delete a file,To create directories,1
+Which method is used to check if a file exists in Java?,exists(),isFile(),isExist(),fileExists(),1
+Which of the following is true about `FileInputStream` in Java?,It is used for reading byte data,It is used for reading character data,It is used to write data to a file,It is used to execute file commands,1
+How do you close a file in Java?,close(),terminate(),flush(),shutdown(),1
+Which exception is thrown when trying to read a non-existent file?,FileNotFoundException,IOException,NullPointerException,IllegalStateException,1
+Which method is used to delete a file in Java?,delete(),remove(),terminate(),dispose(),1
+Which class allows reading a line of text from a file?,BufferedReader,FileWriter,File,FileReader,1
+How can you write to a file in Java without overwriting existing content?,Use FileWriter with append mode,Use FileWriter with replace mode,Use FileOutputStream,Set the overwrite flag to false,1
+Which method is used to create a new file in Java?,createNewFile(),makeNewFile(),newFile(),create(),1
+Which of the following can be used to write objects to a file?,ObjectOutputStream,BufferedReader,FileInputStream,FileReader,1
+How do you check if a file is readable in Java?,canRead(),isReadable(),isReadOnly(),fileReadable(),1
+What is the default mode of `FileWriter` when writing to a file?,Overwrites the file content,Appends to the file,Throws an exception if file exists,Doesn't write unless specified,1
+Which method is used to rename a file in Java?,renameTo(),renameFile(),move(),changeName(),1
+Which method is used to flush the output stream in Java?,flush(),flushOutput(),refresh(),clear(),1
+What does the `File.separator` represent in Java?,The system-dependent file separator,The extension of the file,The delimiter for file names,The type of file,1
+Which of the following is true about `BufferedWriter`?,It writes text to a file with buffering,It reads text from a file,It is used for file input,It is used for random access in files,1
+Which class provides random access to files in Java?,RandomAccessFile,FileReader,BufferedReader,ObjectOutputStream,1
+Which class should be used to compress data before writing to a file?,GZIPOutputStream,BufferedOutputStream,FileWriter,ObjectOutputStream,1
+Which method in `File` class is used to create a directory?,mkdir(),makeDirectory(),createDir(),newDirectory(),1
+Which of the following is used to handle errors at runtime in Java?,Exception Handling,File Handling,Threading,Polymorphism,1
+Which keyword is used to define an exception block?,try,catch,throw,finalize,1
+Which block is used to handle exceptions in Java?,catch,try,throw,throws,1
+Which keyword is used to manually throw an exception in Java?,throw,throws,catch,finalize,1
+What happens if an exception is not caught in Java?,Program terminates abnormally,The program continues,The exception is ignored,The program goes into an infinite loop,1
+What is the purpose of the `finally` block in Java?,To execute code regardless of exception,To handle exceptions,To close resources,To log errors,1
+Which of the following is true about checked exceptions?,They are checked at compile-time,They are checked at runtime,They are ignored,They do not need to be caught,1
+Which exception is thrown when dividing by zero in Java?,ArithmeticException,IOException,NullPointerException,IllegalArgumentException,1
+How can multiple exceptions be caught in a single block?,Using multi-catch with pipe `|`,Using multiple `catch` blocks,Using multiple `try` blocks,Using nested `try` blocks,1
+Which of the following is an unchecked exception?,NullPointerException,IOException,FileNotFoundException,SQLException,1
+What is the base class of all exceptions in Java?,Throwable,Exception,Object,Error,1
+Which keyword is used to declare that a method can throw an exception?,throws,throw,try,catch,1
+What is the purpose of `throw` keyword in Java?,To manually throw an exception,To declare an exception,To catch an exception,To ignore an exception,1
+Which of the following is true about the `finally` block?,It always executes regardless of exception,It executes only if an exception is thrown,It is mandatory to have a `finally` block,It can throw an exception,1
+Which of the following is a subclass of `Exception`?,IOException,Error,Throwable,Object,1
+Which method is used to retrieve the message from an exception object?,getMessage(),getError(),getStackTrace(),printStackTrace(),1
+What does `printStackTrace()` do?,Prints the details of an exception,Throws an exception,Logs the error to a file,Terminates the program,1
+Which exception is thrown if an array is accessed with an illegal index?,ArrayIndexOutOfBoundsException,IOException,NullPointerException,ArithmeticException,1
+How can you handle multiple types of exceptions in Java?,Using multiple `catch` blocks,Using one `catch` block for all,Using `try` without `catch`,Using `throw`,1
+Which of the following is a checked exception?,SQLException,NullPointerException,ArithmeticException,ArrayIndexOutOfBoundsException,1
+What happens if you throw an exception in the `finally` block?,It overwrites any exception from the `try` block,It is ignored,It throws a compile-time error,It is treated as a nested exception,1
+Which class represents serious errors that applications should not catch?,Error,Exception,Throwable,RuntimeException,1
+Which exception is thrown when a method receives an invalid argument?,IllegalArgumentException,IOException,ArrayIndexOutOfBoundsException,ArithmeticException,1
+What is the purpose of the `try-with-resources` statement?,To automatically close resources,To handle unchecked exceptions,To log exceptions,To terminate a program on exception,1
+How do you propagate an exception to the calling method?,Use `throws` in method signature,Use `throw` keyword,Use `try-catch` block,Use `finally` block,1
+Which of the following exceptions cannot be caught in a program?,StackOverflowError,IOException,SQLException,ClassNotFoundException,1
+What is the correct order of catch blocks when handling multiple exceptions?,Subclasses first, then superclasses,Superclasses first, then subclasses,Order does not matter,Runtime exceptions first,1
+Which exception is thrown when a method is called on a null object?,NullPointerException,IllegalStateException,IOException,ArrayIndexOutOfBoundsException,1
+What is wrong with this static method call? class A { static void show() { System.out.println("Show"); } } A obj = null; obj.show();, 1. Static method can be called without an instance, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this method declaration? void method(int... nums, int x) { }, 1. Varargs should be the last parameter, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this method overloading? void method(int a) { } void method(int... a) { }, 1. Varargs method cannot overload a method with a similar parameter type, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this recursive method? int factorial(int n) { return n * factorial(n-1); }, 1. Missing base case causes infinite recursion, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this file writing operation? FileWriter fw = new FileWriter("file.txt"); fw.close(); fw.write("data");, 1. IOException after closing the writer, 2. NullPointerException, 3. ClassCastException, 4. FileNotFoundException, 1
+What is wrong with this abstract class? abstract class MyClass { void method(); }, 1. Abstract method should not have a body, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this interface method? interface MyInterface { void method() { System.out.println("Hello"); } }, 1. Interface methods cannot have a body (before Java 8), 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this constructor chaining? class A { A() { this(10); } A(int x) { this(); } }, 1. Constructor chaining causes infinite recursion, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this access to private members? class A { private int x = 10; } class B extends A { void method() { System.out.println(x); } }, 1. Private members are not accessible in subclasses, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `finally` block? try { return; } finally { System.out.println("Finally"); }, 1. `finally` block executes even after return, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this file copy code? FileInputStream fis = new FileInputStream("input.txt"); FileOutputStream fos = new FileOutputStream("output.txt"); fos.write(fis.read());, 1. Incorrect file copy logic — need to loop to read/write data, 2. NullPointerException, 3. ClassCastException, 4. FileNotFoundException, 1
+What is wrong with this random access file code? RandomAccessFile raf = new RandomAccessFile("file.txt", "r"); raf.seek(10); raf.writeBytes("text");, 1. Write operation is not allowed in read mode, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this final variable assignment? final int x; x = 10;, 1. Final variable must be initialized, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this multi-threaded access? class Counter { private int count = 0; synchronized void increment() { count++; } } Counter c = new Counter(); Thread t1 = new Thread(() -> c.increment()); Thread t2 = new Thread(() -> c.increment()); t1.start(); t2.start();, 1. Potential race condition, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this method call? public void process(int... nums) { } process(1, 2, 3, 4, 5, 6);, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this string concatenation? String a = "Hello"; a.concat(" World").toUpperCase();, 1. No issue, but 'a' remains unchanged, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `StringBuilder` usage? StringBuilder sb = new StringBuilder(); sb.append("Hello").insert(5, " World").toString();, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `Thread` usage? Thread t = new Thread(() -> { for(int i = 0; i < 5; i++) { System.out.println(i); } }); t.start(); t.join();, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `try-with-resources` statement? try (FileInputStream fis = new FileInputStream("file.txt")) { fis.read(); } catch (IOException e) { e.printStackTrace(); }, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this variable shadowing? class Outer { int x = 10; class Inner { int x = 20; void display() { System.out.println(x); } } } Outer.Inner oi = new Outer().new Inner(); oi.display();, 1. Prints 20 due to shadowing, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `enum` definition? enum Day { MONDAY, TUESDAY; String name; } Day d = Day.MONDAY; d.name = "Monday";, 1. Enums cannot have mutable fields, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this custom exception? class MyException extends Exception { MyException(String message) { super(message); } } throw new MyException();, 1. Missing required argument for constructor, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `synchronized` block? synchronized (this) { System.out.println("Synchronized"); } synchronized (new Object()) { System.out.println("Another synchronized block"); }, 1. Potential deadlock, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `ArrayList` usage? ArrayList<String> list = new ArrayList<>(); list.add("A"); list.add("B"); list.remove("A"); list.remove(0);, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `HashMap` usage? HashMap<String, String> map = new HashMap<>(); map.put("key1", "value1"); map.remove("key1"); map.get("key1");, 1. Returns null, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `TreeSet` usage? TreeSet<Integer> set = new TreeSet<>(); set.add(1); set.add(2); set.add(1);, 1. Duplicates are not allowed, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this `LinkedList` usage? LinkedList<String> list = new LinkedList<>(); list.addFirst("First"); list.addLast("Last"); list.removeFirst(); list.removeLast();, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this method reference? List<String> list = Arrays.asList("a", "b", "c"); list.forEach(System.out::println);, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this lambda expression? (int a, int b) -> a + b;, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What is wrong with this stream operation? Stream<String> stream = Stream.of("a", "b", "c"); stream.forEach(System.out::println);, 1. No issue, 2. NullPointerException, 3. ClassCastException, 4. IOException, 1
+What does the SQL keyword `DISTINCT` do?, 1. Removes duplicate rows, 2. Filters based on conditions, 3. Groups rows, 4. Limits the number of rows, 1
+Which SQL statement is used to extract data from a database?, 1. SELECT, 2. GET, 3. OPEN, 4. EXTRACT, 1
+Which SQL function is used to count the number of rows in a result set?, 1. COUNT(), 2. SUM(), 3. AVG(), 4. TOTAL(), 1
+Which SQL clause is used to sort the result set?, 1. ORDER BY, 2. GROUP BY, 3. SORT, 4. LIMIT, 1
+How do you add a new row in a table?, 1. INSERT INTO, 2. ADD ROW, 3. UPDATE, 4. APPEND, 1
+Which SQL statement is used to update data in a database?, 1. UPDATE, 2. MODIFY, 3. CHANGE, 4. SET, 1
+Which SQL keyword is used to retrieve only unique values?, 1. DISTINCT, 2. UNIQUE, 3. FILTER, 4. SELECT DISTINCT, 1
+How can you remove a row from a table?, 1. DELETE, 2. DROP, 3. REMOVE, 4. ERASE, 1
+Which SQL clause is used to filter records?, 1. WHERE, 2. FILTER, 3. HAVING, 4. CONDITION, 1
+Which SQL keyword is used to create a new table?, 1. CREATE TABLE, 2. ADD TABLE, 3. MAKE TABLE, 4. NEW TABLE, 1
+How do you change a column name in SQL?, 1. ALTER TABLE, 2. MODIFY COLUMN, 3. CHANGE COLUMN, 4. RENAME COLUMN, 1
+What is a primary key in SQL?, 1. Uniquely identifies each row, 2. A key to encrypt data, 3. A key to sort data, 4. A key to join tables, 1
+What does `NULL` represent in SQL?, 1. Missing or unknown data, 2. Zero, 3. Empty string, 4. Invalid value, 1
+Which SQL function is used to calculate the average value of a column?, 1. AVG(), 2. SUM(), 3. COUNT(), 4. TOTAL(), 1
+Which SQL keyword is used to group rows that have the same values?, 1. GROUP BY, 2. ORDER BY, 3. SORT BY, 4. AGGREGATE BY, 1
+Which SQL clause is used with aggregate functions to filter the result set?, 1. HAVING, 2. WHERE, 3. FILTER, 4. GROUP BY, 1
+How do you retrieve data from two tables with a common column?, 1. JOIN, 2. LINK, 3. MERGE, 4. UNION, 1
+Which SQL keyword combines the result of two queries into a single result set?, 1. UNION, 2. JOIN, 3. MERGE, 4. COMBINE, 1
+What is the difference between `INNER JOIN` and `LEFT JOIN`?, 1. INNER JOIN returns only matching rows, LEFT JOIN returns all rows from the left table, 2. INNER JOIN returns all rows, LEFT JOIN returns matching rows only, 3. No difference, 4. LEFT JOIN returns only matching rows, INNER JOIN returns all rows, 1
+Which SQL function is used to sum a numeric column?, 1. SUM(), 2. COUNT(), 3. AVG(), 4. TOTAL(), 1
+What is a foreign key in SQL?, 1. A key used to link two tables together, 2. A key that encrypts data, 3. A key that represents unique values, 4. A key to order rows, 1
+Which SQL keyword is used to remove a table from the database?, 1. DROP TABLE, 2. DELETE TABLE, 3. REMOVE TABLE, 4. ERASE TABLE, 1
+How do you retrieve the first 5 rows from a query?, 1. LIMIT 5, 2. FIRST 5, 3. GET 5, 4. TOP 5, 1
+Which SQL clause is used to specify the number of rows returned by a query?, 1. LIMIT, 2. ROWCOUNT, 3. COUNT, 4. RANGE, 1
+Which SQL function returns the largest value of a column?, 1. MAX(), 2. MIN(), 3. GREATEST(), 4. SUM(), 1
+Which SQL keyword is used to create an index?, 1. CREATE INDEX, 2. ADD INDEX, 3. MAKE INDEX, 4. SET INDEX, 1
+How do you rename an existing table in SQL?, 1. RENAME TO, 2. CHANGE NAME, 3. MODIFY NAME, 4. ALTER NAME, 1
+Which SQL command is used to remove duplicates from a result set?, 1. DISTINCT, 2. UNIQUE, 3. DELETE DUPLICATES, 4. REMOVE DUPLICATES, 1
+How do you remove a column from an existing table?, 1. ALTER TABLE DROP COLUMN, 2. DELETE COLUMN, 3. REMOVE COLUMN, 4. ERASE COLUMN, 1
+Which SQL clause is used to filter results based on an aggregate function?, 1. HAVING, 2. WHERE, 3. FILTER, 4. GROUP BY, 1
+What is the correct SQL query to select all rows from a table named "Users" where the "age" column is greater than 30?, 1. SELECT * FROM Users WHERE age > 30;, 2. SELECT Users WHERE age > 30;, 3. GET * FROM Users WHERE age > 30;, 4. SELECT * WHERE age > 30 FROM Users;, 1
+How do you join three tables in SQL?, 1. Use multiple JOIN statements, 2. Use UNION, 3. Use GROUP BY, 4. Use HAVING, 1
+What is the difference between `HAVING` and `WHERE`?, 1. HAVING is used with aggregate functions, WHERE is not, 2. WHERE is used with aggregate functions, HAVING is not, 3. No difference, 4. WHERE can only be used in `SELECT`, 1
+Which SQL function is used to find the smallest value in a column?, 1. MIN(), 2. MAX(), 3. LEAST(), 4. SMALL(), 1
+Which SQL statement is used to create a view?, 1. CREATE VIEW, 2. MAKE VIEW, 3. CREATE VIRTUAL TABLE, 4. ADD VIEW, 1
+What is the purpose of the `EXISTS` keyword in SQL?, 1. To check if a subquery returns any rows, 2. To remove duplicate rows, 3. To create a temporary table, 4. To update data, 1
+Which SQL statement is used to delete a database?, 1. DROP DATABASE, 2. DELETE DATABASE, 3. REMOVE DATABASE, 4. ERASE DATABASE, 1
+How do you sort data in descending order in SQL?, 1. ORDER BY column_name DESC, 2. SORT BY column_name DESC, 3. DESCENDING column_name, 4. SORT DESC column_name, 1
+What does the SQL `IN` operator do?, 1. Checks if a value exists in a set of values, 2. Filters rows based on conditions, 3. Joins tables, 4. Groups data, 1
+What does the `BETWEEN` operator do in SQL?, 1. Selects values within a range, 2. Joins two tables, 3. Filters for NULL values, 4. Sorts rows in ascending order, 1
+What is the default sorting order in SQL if no `ASC` or `DESC` is specified?, 1. Ascending, 2. Descending, 3. Random, 4. No specific order, 1
+Which SQL clause is used to combine multiple conditions in a query?, 1. AND, 2. WHERE, 3. OR, 4. JOIN, 1
+How do you create a table with a unique constraint on a column?, 1. CREATE TABLE tablename (columnname datatype UNIQUE), 2. CREATE TABLE tablename (columnname datatype PRIMARY), 3. CREATE TABLE tablename (columnname datatype DISTINCT), 4. CREATE TABLE tablename (columnname datatype SPECIAL), 1
+How do you specify multiple conditions in a SQL query?, 1. Using AND or OR operators, 2. Using IF statements, 3. Using JOIN, 4. Using UNION, 1
+Which SQL statement is used to add a column to an existing table?, 1. ALTER TABLE ADD COLUMN, 2. CREATE COLUMN, 3. MODIFY TABLE ADD COLUMN, 4. INSERT COLUMN, 1
+How do you select the top 3 salaries from an employee table?, 1. SELECT salary FROM employee ORDER BY salary DESC LIMIT 3;, 2. SELECT salary FROM employee ORDER BY salary ASC LIMIT 3;, 3. SELECT salary FROM employee WHERE salary TOP 3;, 4. SELECT salary FROM employee GROUP BY salary LIMIT 3;, 1
+Which SQL keyword is used to fetch records that match a specified pattern?, 1. LIKE, 2. SIMILAR, 3. MATCH, 4. SEARCH, 1
+How do you change the data type of a column in SQL?, 1. ALTER TABLE MODIFY COLUMN, 2. CHANGE COLUMN TYPE, 3. MODIFY COLUMN TYPE, 4. UPDATE COLUMN TYPE, 1
+How can you check the structure of a table in SQL?, 1. DESCRIBE tablename, 2. SHOW COLUMNS FROM tablename, 3. GET STRUCTURE tablename, 4. LIST FIELDS FROM tablename, 1
